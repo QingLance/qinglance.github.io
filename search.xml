@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>超文本标记语言Html</title>
+      <link href="/2020/04/07/html/"/>
+      <url>/2020/04/07/html/</url>
+      
+        <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><p>html称为超文本标记语言，它是一个非常简单的，由标签元素组成的，用以描述web页面的骨架的标记语言。</p><h1 id="标签元素"><a href="#标签元素" class="headerlink" title="标签元素"></a>标签元素</h1><h2 id="元素类型"><a href="#元素类型" class="headerlink" title="元素类型"></a>元素类型</h2><ul><li>块级元素，前后有换行，特点是会占据一整行，如<code>&lt;h1&gt; &lt;p&gt; &lt;div&gt;</code>等。</li><li>行内元素，前后没有换行，特点是随着文档流顺序排列。如<code>&lt;span&gt; &lt;a&gt;</code>等。</li><li>空元素，指自闭合的标签，即元素没有内容，如<code>&lt;br&gt; &lt;hr&gt;</code>等。<h2 id="常用的标签"><a href="#常用的标签" class="headerlink" title="常用的标签"></a>常用的标签</h2><h3 id="块级元素"><a href="#块级元素" class="headerlink" title="块级元素"></a>块级元素</h3></li><li>常用：div、p、ul、li、ol</li><li>结构：aside、footer、header、nav、section、main</li><li>文章：address、article、figure、figcaption、h1、h2、h3、h4、h5、h6、pre</li><li>表格：table、thead、tbody、tfoot、th、td、caption</li><li>表单：form</li><li>其他：canvas<h3 id="行内元素"><a href="#行内元素" class="headerlink" title="行内元素"></a>行内元素</h3></li><li>常用：a、img、span</li><li>文本：em、i、strong、small</li><li>表单：button、input、label、option、progress、select、textarea</li><li>媒体：audio、video<h3 id="H5新增元素"><a href="#H5新增元素" class="headerlink" title="H5新增元素"></a>H5新增元素</h3></li><li>section</li><li>article</li><li>audio</li><li>video</li><li>hearder</li><li>footer</li><li>nav</li><li>canvas<h1 id="语义化"><a href="#语义化" class="headerlink" title="语义化"></a>语义化</h1><h2 id="什么是标签语义化"><a href="#什么是标签语义化" class="headerlink" title="什么是标签语义化"></a>什么是标签语义化</h2>标签的语义化是指让标签有自己的含义。如：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;p&gt;这是一个段落&lt;&#x2F;p&gt;</span><br><span class="line">&lt;span&gt;这是一段文字&lt;&#x2F;span&gt;</span><br></pre></td></tr></table></figure>以上<code>&lt;p&gt;</code>标签的含义代表这是一个段落，<code>&lt;span&gt;</code>标签则没有特别的含义。<h2 id="为什么要标签语义化"><a href="#为什么要标签语义化" class="headerlink" title="为什么要标签语义化"></a>为什么要标签语义化</h2></li><li>代码结构清晰，方便阅读，有利于团队合作开发，易于维护。</li><li>方便其他设备解析（如屏幕阅读器、盲人阅读器、移动设备）以语义的方式来渲染网页。</li><li>有利于搜索引擎优化（SEO）。<h2 id="个人理解"><a href="#个人理解" class="headerlink" title="个人理解"></a>个人理解</h2>在一些不强调SEO要求的站点，标签的语义化显得不那么重要。标签语义化的初衷是让正确的标签做正确的事情，标签的语义除了在 tag 上体现，还可以从 id, class 上体现出来。我的理解标签语义化更多的是为 SEO 进行服务，让爬虫更方便地找到想要的信息。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> html </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客开通啦</title>
       <link href="/2019/01/01/first-blog/"/>
       <url>/2019/01/01/first-blog/</url>
